@@ -113,7 +113,7 @@ Expand the downloaded ImageMaskDataset and put it under the <b>./dataset</b> fol
 <b>Lung-Cancer-MRI Statistics</b><br>
 <img src ="./projects/TensorFlowFlexUNet/Lung-Cancer-MRI/Lung-Cancer-MRI_Statistics.png" width="512" height="auto"><br>
 <br>
-As shown above, the number of images in the training and valid datasets is large enough to use for the
+As shown above, the number of images in the training and valid datasets is not large enough to use for the
  training set of our segmentation model.
 <br>
 <h3>2.2 Derivation of ImageMask Dataset</h3>
