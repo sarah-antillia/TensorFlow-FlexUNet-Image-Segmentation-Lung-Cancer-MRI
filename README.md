@@ -120,7 +120,7 @@ As shown above, the number of images in the training and valid datasets is large
 The folder structure of the original dataset is as follows, but it contains no
 annotation (mask) files.
 <pre>
-./ung_cancer_MRI_dataset
+./lung_cancer_MRI_dataset
    └─train
        └─cancer (1,122 files)
          ├─LNG001.png
